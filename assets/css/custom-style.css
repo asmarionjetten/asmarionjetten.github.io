@@ -23,7 +23,11 @@ body {
 
 .screen {
     min-height: 100vh;
-    padding-top: 5rem;
+    padding-top: 6rem;
+}
+
+.top-space {
+    margin-top: 3rem;
 }
 
 a {
