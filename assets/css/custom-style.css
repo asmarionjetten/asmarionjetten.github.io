@@ -54,7 +54,8 @@ span.invisible {
 }
 
 img.text-icon {
-    height: 1em;
+    max-height: 1rem;
+    max-width: 1rem;
 }
 
 address li {
