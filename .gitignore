@@ -1,3 +1,4 @@
 .*
 !/.gitignore
 Synchronisation_Ordi-Site.sh
+.DS_Store
